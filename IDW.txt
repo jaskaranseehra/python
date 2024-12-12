@@ -1,0 +1,18 @@
+Input datasets 
+-Dataset\L0Ontario_Wells_2024 
+TypeFeature Class 
+Data field 1WELL_DEPTH 
+Coincident Point MethodUse Mean 
+Records361 
+
+
+
+-MethodInverse Distance Weighted Interpolation 
+Power2 
+-Searching neighborhoodStandard 
+Neighbors to include15 
+Include at least10 
+Sector typeFull 
+Major semiaxis4.183248444373 
+Minor semiaxis4.183248444373 
+Angle0 

@@ -1,0 +1,53 @@
+Input datasets 
+-Dataset\L0Ontario_Wells_2024 
+TypeFeature Class 
+Data field 1WELL_DEPTH 
+Coincident Point MethodUse Mean 
+Records361 
+
+
+
+-MethodKriging 
+TypeOrdinary 
+Output typePrediction 
+-Dataset #1 
+Trend typeThird 
+-TransformationLog 
+-Trend removalLocal Polynomial Interpolation 
+Power3 
+Bandwidth11.079615224617 
+Kernel functionConstant 
+Output typePrediction 
+Spatial condition number threshold1,002.48886931718 
+Exploratory trend surface analysis7 
+-Searching neighborhoodStandard 
+Neighbors to include1,000 
+Sector typeFull 
+Major semiaxis11.079615224617 
+Minor semiaxis11.079615224617 
+Angle0 
+-Searching neighborhoodStandard 
+Neighbors to include5 
+Include at least2 
+Sector typeFour and 45 degree 
+Major semiaxis0.167329937775 
+Minor semiaxis0.167329937775 
+Angle0 
+-VariogramSemivariogram 
+Number of lags12 
+Lag size0.01048914871 
+Nugget0.38882496929 
+Measurement error %100 
+-Model typeStable 
+Parameter2 
+Range0.106858426772 
+AnisotropyNo 
+Partial sill0.240196743602 
+-Model typeCircular 
+Range0.07817144547 
+AnisotropyNo 
+Partial sill0 
+-Model typeCircular 
+Range0.125869784516 
+AnisotropyNo 
+Partial sill0 
